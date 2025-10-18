@@ -1,1 +1,1 @@
-# digital-expeditions
+Welcome to my digital expeditions! This repository serves as a logbook for my journey through various programming languages, frameworks, and tools. Expect to find small experimental projects, proof-of-concepts, and notes from my learning adventures. Always seeking the next challenge and the next thing to learn.
